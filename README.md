@@ -1,32 +1,53 @@
-Apresento mais um tema do ARCADE ALEKFULL para o BATOCERA (PLUS), RETROBAT e EMEUELEC: SOLO 🕹️🎮
+# ArkOS Theme based on Alekfull-SOLO
+Emulation Station theme fit for R35S & R36S
+fork of the Alekfull-SOLO modified to fit the R35S & R36S
 
-ALEKFULL SOLO foi inspirado nas artes simétricas dos novos filmes da franquia Star Wars.
-Com muitas cores, simples e direto - SOLO vem com um novo conceito para os temas ALEKFULL 🤗
+ALEKFULL SOLO was inspired by the symmetrical arts of the new Star Wars films.
+With lots of colors, simple and direct🤗
 
-![alt text](https://i.imgur.com/a0oJGXi.jpg)
+Thanks to fagnerpc for the Alekfull-SOLO.
 
-
-OPÇÕES DE VISUALIZAÇÃO DE SISTEMAS E JOGOS
---------------------------------------------------------------------
-SOLO vem com 12 opções de visualização de jogos nas versões BATOCERA e EMUELEC.
-Além de várias opções de iconsets, 3 vistas diferentes para seleção de sistemas e muito mais.
-![Gamelist View](https://i.imgur.com/zDVCwic.png)
-
-ARTES EXCLUSIVAS E SUPORTE PARA MAIS DE 185 SISTEMAS
---------------------------------------------------------------------
-Todas as artes foram feitas do zero - respeitando os jogos icônicos da plataforma representada de forma única.
-Suporte para todos os sistemas do BATOCERA (PLUS), RETROBAT E EMUELEC.
-
-![Gamelist View](https://i.imgur.com/gh4XjFp.jpg)
-
-![Gamelist View](https://i.imgur.com/por02tj.jpg)
+[![Gamelist View](https://storage.ko-fi.com/cdn/useruploads/display/a26c7ed1-9be9-480f-86ed-0e86b2d3516b_preview.png)](https://www.youtube.com/shorts/dVBRjZcsfu0)
 
 
---------------------------------------------------------------
-|.......I M P O R T A N T E.......|
----------------------------------------------------------------
-* Esse tema NÃO é AUTORIZADO para uso COMERCIAL!!
-* Compatível com o BATOCERA em suas atualizações mais recentes;
-* Compatível com o EMUELEC em suas atualizações mais recentes;
-* Compatível com todos os sistemas do BATOCERA (PLUS), EMUELEC e RETROBAT - suporte para mais de 185 sistemas.
-* Esse tema NÃO é compatível com RECALBOX.
+### SYSTEMS AND GAME VIEW OPTIONS
+-------------------------------------------------- ------------------
+SOLO comes with 12 game viewing options in BATOCERA and EMUELEC versions.
+In addition to several iconset options, 3 different views for system selection and much more.
+
+### EXCLUSIVE ARTWORK AND SUPPORT FOR OVER 185 SYSTEMS
+-------------------------------------------------- ------------------
+All artwork are made from scratch - respecting the iconic games on the platform represented in a unique way.
+
+### License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). \
+![Creative Commons Licence](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Licence")
+
+ALLOWED:
+- Share and duplicate as it is
+- Edit, alter, change it
+
+REQUIREMENTS:
+- Attribution, give credit to the creators
+- Indicate changes to the theme
+- Publish the changes under the same license
+
+PROHIBITED:
+- Commercial distribution
+### Thanks and Credits
+
+All original artwork belongs to the many artists who devoted their talents and time into making them. 
+Most of them can be found in [DeviantArt](http://www.deviantart.com/).
+
+###### [back to top](#)
+
+---
+
+### Features 
+
+* Dark Interface
+* High Quality Wallpapers for most systems
+* Support for screenshots/boxart and/or video.
+
+###### [back to top](#)
