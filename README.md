@@ -11,7 +11,7 @@ Thanks to fagnerpc for the Alekfull-SOLO.
 
 ### SYSTEMS AND GAME VIEW OPTIONS
 -------------------------------------------------- ------------------
-SOLO comes with 12 game viewing options in BATOCERA and EMUELEC versions.
+SOLO comes with 12 game viewing options.
 In addition to several iconset options, 3 different views for system selection and much more.
 
 ### EXCLUSIVE ARTWORK AND SUPPORT FOR OVER 185 SYSTEMS
