@@ -117,7 +117,7 @@ Código baseado no tema HyperTocera V1 - The Mini Cake TV
       <helpsystem name="help">
          <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.019</fontSize>
-         <pos>0.566 0.942</pos>
+         <pos>0.535 0.942</pos>
          <textColor>FFFFFF</textColor>
       </helpsystem>
       <image name="background" extra="true">
@@ -180,7 +180,7 @@ Código baseado no tema HyperTocera V1 - The Mini Cake TV
       <helpsystem name="help">
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
          <fontSize>0.022</fontSize>
-         <pos>0.18 0.955</pos>
+         <pos>0.02 0.955</pos>
          <textColor>FFFFFF</textColor>
       </helpsystem>
       <image name="art" extra="true">
@@ -213,7 +213,7 @@ Código baseado no tema HyperTocera V1 - The Mini Cake TV
          <path>./_inc/bg-3.png</path>
       </image>
       <rating name="md_rating">
-         <pos>0.030 0.930</pos>
+         <pos>0.030 0.620</pos>
          <size>0.45 0.048</size>
          <filledPath>./_inc/images/filled.svg</filledPath>
          <unfilledPath>./_inc/images/empty.svg</unfilledPath>
