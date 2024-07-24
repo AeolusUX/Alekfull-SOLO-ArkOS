@@ -2,8 +2,7 @@
 Emulation Station theme fit for R35S & R36S
 fork of the Alekfull-SOLO modified to fit the R35S & R36S
 
-ALEKFULL SOLO was inspired by the symmetrical arts of the new Star Wars films.
-With lots of colors, simple and direct🤗
+ALEKFULL SOLO drew inspiration from the symmetrical artistry of the new Star Wars films. Featuring vibrant colors, it's simple and direct. 🤗
 
 Thanks to fagnerpc for the Alekfull-SOLO.
 
