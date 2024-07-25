@@ -49,4 +49,6 @@ Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 * High Quality Wallpapers for most systems
 * Support for screenshots/boxart and/or video.
 
+###
+As per usual if there are systems not included you are free to open an issue so we could add them to the assets.
 ###### [back to top](#)
