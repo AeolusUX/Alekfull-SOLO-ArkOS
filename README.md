@@ -18,6 +18,10 @@ In addition to several iconset options, 3 different views for system selection a
 -------------------------------------------------- ------------------
 All artwork are made from scratch - respecting the iconic games on the platform represented in a unique way.
 
+
+> [!NOTE]  
+>As per usual if there are systems not included you are free to open an issue so we could add them to the assets.
+
 ### License
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). \
@@ -49,6 +53,4 @@ Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 * High Quality Wallpapers for most systems
 * Support for screenshots/boxart and/or video.
 
-###
-As per usual if there are systems not included you are free to open an issue so we could add them to the assets.
 ###### [back to top](#)
