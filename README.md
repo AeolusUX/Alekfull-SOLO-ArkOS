@@ -2,8 +2,7 @@
 Emulation Station theme fit for R35S & R36S
 fork of the Alekfull-SOLO modified to fit the R35S & R36S
 
-ALEKFULL SOLO was inspired by the symmetrical arts of the new Star Wars films.
-With lots of colors, simple and direct🤗
+ALEKFULL SOLO drew inspiration from the symmetrical artistry of the new Star Wars films. Featuring vibrant colors, it's simple and direct. 🤗
 
 Thanks to fagnerpc for the Alekfull-SOLO.
 
@@ -12,12 +11,16 @@ Thanks to fagnerpc for the Alekfull-SOLO.
 
 ### SYSTEMS AND GAME VIEW OPTIONS
 -------------------------------------------------- ------------------
-SOLO comes with 12 game viewing options in BATOCERA and EMUELEC versions.
+SOLO comes with 12 game viewing options.
 In addition to several iconset options, 3 different views for system selection and much more.
 
 ### EXCLUSIVE ARTWORK AND SUPPORT FOR OVER 185 SYSTEMS
 -------------------------------------------------- ------------------
 All artwork are made from scratch - respecting the iconic games on the platform represented in a unique way.
+
+
+> [!NOTE]  
+>As per usual if there are systems not included you are free to open an issue so we could add them to the assets.
 
 ### License
 
