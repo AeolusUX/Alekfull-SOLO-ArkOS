@@ -38,12 +38,12 @@ Código baseado no tema HyperTocera V1 - The Mini Cake TV
    <view name="menu">
       <menuText name="menufooter">
          <fontPath>./_inc/fonts/Homizio.ttf</fontPath>
-         <fontSize>0.025</fontSize>
+         <fontSize>0.035</fontSize>
          <color>c0e7ed</color>
       </menuText>
       <menuText name="menutext">
          <fontPath>./_inc/fonts/OpenSans-Light.ttf</fontPath>
-         <fontSize>0.03</fontSize>
+         <fontSize>0.038</fontSize>
          <color>868686</color>
          <separatorColor>191919</separatorColor>
          <selectorColor>47a1f5</selectorColor>
@@ -53,7 +53,7 @@ Código baseado no tema HyperTocera V1 - The Mini Cake TV
        </menuText>
       <menuTextSmall name="menutextsmall">
          <fontPath>./_inc/fonts/OpenSans-Semibold.ttf</fontPath>
-         <fontSize>0.028</fontSize>
+         <fontSize>0.03</fontSize>
          <color>23f2f0</color>
       </menuTextSmall>
       <menuText name="menutitle">
