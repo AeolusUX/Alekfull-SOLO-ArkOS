@@ -53,4 +53,8 @@ Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 * High Quality Wallpapers for most systems
 * Support for screenshots/boxart and/or video.
 
+# Donate
+🎮☕ Loving my work? Let’s power up together – buy me a coffee! 🕹️✨  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R7TMKNX)
+
 ###### [back to top](#)
